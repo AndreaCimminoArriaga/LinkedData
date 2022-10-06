@@ -10,7 +10,7 @@ Original file is located at
 """
 
 !pip install rdflib
-github_storage = "https://raw.githubusercontent.com/AndreaCimminoArriaga/LinkedData2021-2022/main/Assignment4/"
+github_storage = "https://raw.githubusercontent.com/AndreaCimminoArriaga/LinkedData/main/rdfslib/"
 
 from rdflib import Graph, Namespace, Literal
 g = Graph()

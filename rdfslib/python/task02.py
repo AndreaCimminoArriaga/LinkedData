@@ -13,7 +13,7 @@ Comenzamos con un grafo vacío
 from rdflib import Graph, Namespace, Literal
 from rdflib import FOAF
 
-github_storage = "https://raw.githubusercontent.com/AndreaCimminoArriaga/LinkedData2021-2022/main/Assignment4/"
+github_storage = "https://raw.githubusercontent.com/AndreaCimminoArriaga/LinkedData/main/rdfslib/"
 
 g = Graph()
 

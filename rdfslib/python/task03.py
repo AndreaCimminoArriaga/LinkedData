@@ -11,7 +11,7 @@ Original file is located at
 from rdflib import Graph, Namespace, Literal
 from rdflib import XSD
 
-github_storage = "https://raw.githubusercontent.com/AndreaCimminoArriaga/LinkedData2021-2022/main/Assignment4/"
+github_storage = "https://raw.githubusercontent.com/AndreaCimminoArriaga/LinkedData/main/rdfslib/"
 
 """Importamos example3.rdf en nuestro grafo"""
 

@@ -15,7 +15,7 @@ librería: parse y serialize.
 from rdflib import Graph
 
 g = Graph()
-github_storage = "https://raw.githubusercontent.com/AndreaCimminoArriaga/LinkedData2021-2022/main/Assignment4/"
+github_storage = "https://raw.githubusercontent.com/AndreaCimminoArriaga/LinkedData/main/rdfslib/"
 
 """Podemos añadir tripletas a nuestro grafo empleando *parse*, que leerá el recurso proporcionado. Debemos además 
 indicarle el formato si este no puede ser inferido."""
